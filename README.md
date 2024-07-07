@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Dorian Kiewro
-- 👀 I’m interested in programming
-<!-- - 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on... -->
-- 📫 How to reach me? Write me an e-mail dorian.kiewro@gmail.com
-- 📫 Or write to me on twitter @DKiewro
+Hi, I’m Dorian Kiewro
+I’m interested in programming, microcontrollers arduino, raspberry Pi and BeagleBone.
+3D printing design.
+ButtonBox for ETS, ATS and AssetoCorsa.
+
+Write me an e-mail doriankiewro@outlook.com
+Or write to me on X @DKiewro
